@@ -1,2 +1,2 @@
 # my-api
-A sample API
+A sample API that returns some users and some weather.
